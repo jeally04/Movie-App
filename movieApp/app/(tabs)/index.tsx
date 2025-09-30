@@ -17,7 +17,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome to MovieApp</ThemedText>
+        <ThemedText type="title">Welcome to MovieApp!</ThemedText>
         
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
